@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Nova rede"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
